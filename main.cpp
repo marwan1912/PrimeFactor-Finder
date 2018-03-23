@@ -1,7 +1,4 @@
 //Marawan El Sharkawi
-//CSCI 301-Section 1
-//cs301175
-//Project 7
 
 /*
 This program determines all the prime factors of a given integer using stack data structure and recursion technology.
